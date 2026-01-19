@@ -1,4 +1,4 @@
-# 🏥 LifeStatus - Gestión Médica Multiversal
+# 🏥 LifeStatus - Gestión Médica Multiversal (API De RickAndMorty)
 
 **LifeStatus** es una aplicación Android moderna desarrollada para la asignatura de **Desarrollo de Aplicaciones Móviles**. La app simula un sistema de gestión de pacientes utilizando la API de Rick and Morty como base de datos externa.
 
@@ -14,10 +14,10 @@
 * **Imágenes:** Coil (Image loading).
 * **UI:** Material Design 3.
 
-## 👥 Equipo de Desarrollo
-* [Tu Nombre] - Introducción y Contexto Técnico.
-* [Nombre Compa 2] - Diseño de Interfaz y UI.
-* [Nombre Compa 3] - Lógica de Navegación y Estados.
+## 👥 Equipo de Desarrollo + Orden Expositorio
+* Yescar Madrrigal - Introducción y Contexto Técnico.
+* Danny Bloomfield - Diseño de Interfaz y UI.
+* Maxwell Gonzalez - Lógica de Navegación y Estados.
 
 ---
 *Proyecto desarrollado para la Evaluación Práctica - Aplicación 4.*
