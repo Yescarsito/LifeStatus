@@ -15,7 +15,7 @@
 * **UI:** Material Design 3.
 
 ## 👥 Equipo de Desarrollo + Orden Expositorio
-* Yescar Madrrigal - Introducción y Contexto Técnico.
+* Yescar Madrigal - Introducción y Contexto Técnico.
 * Danny Bloomfield - Diseño de Interfaz y UI.
 * Maxwell Gonzalez - Lógica de Navegación y Estados.
 
